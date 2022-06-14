@@ -31,10 +31,10 @@
 		    <url>http://54.219.140.34:8081/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
-		<repository>
+		<releasesrepository>
 		    <id>nexusRepo</id>
 		    <url>http://54.219.140.34:8081/repository/sample-releases/</url>
-		</repository>
+		</releasesrepository>
   	</distributionManagement>
 	
 	<pluginRepositories>
